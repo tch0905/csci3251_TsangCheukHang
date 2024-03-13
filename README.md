@@ -1,4 +1,4 @@
 # csci3251_TsangCheukHang
-This is the project of TsangCheukHang
-Heelo, I'm Tsang Chuek Hang 
+Hello, I'm Tsang Chuek Hang 
 My student number is 1155167650
+I will pull my project later
